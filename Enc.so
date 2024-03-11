@@ -4,7 +4,6 @@ import subprocess
 os.system('rm -rf p32')
 os.system('rm -rf p64')
 os.system('pip uninstall cython -y')
-os.system('pip install cython')
 os.system('clear')
 os.system('git pull')
 os.system('xdg-open https://chat.whatsapp.com/GrMaqHEYlbOJJZzc1h2VVU')
